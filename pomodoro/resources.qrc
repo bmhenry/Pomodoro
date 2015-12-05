@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bike_bell.wav</file>
+        <file>timer.ico</file>
+    </qresource>
+</RCC>
